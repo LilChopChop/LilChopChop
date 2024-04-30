@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ethan Collins, and I am a computer science major who is constantly striving to improve my projects on Github and build a strong and reliable community around me. I have a particular knack for utilizing various AWS services, mastering JavaScript (including React and NodeJS), and effectively working with MySQL.
+My name is Ethan Collins, and I am a Information Technology major who is constantly striving to improve my projects on Github and build a strong and reliable community around me. I have a particular knack for utilizing various AWS services, mastering JavaScript (including React and NodeJS), and effectively working with MySQL.
 
 
 ## 🌐 Socials:
