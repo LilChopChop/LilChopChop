@@ -18,4 +18,4 @@ My name is Ethan Collins, and I study Information Technology major with a strong
 ---
 [![](https://visitcount.itsvg.in/api?id=YoriTano&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
