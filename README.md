@@ -1,5 +1,7 @@
 # 💫 About Me:
-My name is Ethan Collins, and I study Information Technology major with a strong passion for cybersecurity. I am eager to transition into this field and specifically aim to join a Security Operations Center (SOC) as a Tier 1 Analyst. I excel in utilizing AWS services, mastering JavaScript (including React and Node.js), and efficiently working with MySQL.
+<h1>Hi, I'm Ethan! <br/>, and I am study Information Technology major with a strong passion for cybersecurity. I am eager to transition into this field and specifically aim to join a Security Operations Center (SOC) as a Tier 1 Analyst. I excel in utilizing AWS services, mastering JavaScript (including React and Node.js), and efficiently working with MySQL.
+
+<b>PowerShell</b>
 
 
 ## 🌐 Socials:
