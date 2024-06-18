@@ -5,10 +5,10 @@
 
 
 - <b>Python🐍</b>
-  -[TicTacToe](https://github.com/YoriTano/TicTacToe_py)
-  -[Text-Based Adventure Game](https://github.com/YoriTano/Adventure_game)
-  -[Pong(PyGame)](https://github.com/YoriTano/Pong_py_pygame)
-  -[Pong(Stddraw)](https://github.com/YoriTano/Pong_py_std)
+  - [TicTacToe](https://github.com/YoriTano/TicTacToe_py)
+  - [Text-Based Adventure Game](https://github.com/YoriTano/Adventure_game)
+  - [Pong(PyGame)](https://github.com/YoriTano/Pong_py_pygame)
+  - [Pong(Stddraw)](https://github.com/YoriTano/Pong_py_std)
  
 
 - <b>Cloud Computing☁️</b>
