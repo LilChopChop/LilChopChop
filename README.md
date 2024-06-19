@@ -1,7 +1,8 @@
 # 💫 About Me:
 <b>Hi, I'm Ethan!<br/> I am study Information Technology major with a strong passion for cybersecurity. I am eager to transition into this field and specifically aim to join a Security Operations Center (SOC) as a Tier 1 Analyst. I excel in utilizing AWS services, mastering JavaScript (including React and Node.js), and efficiently working with MySQL.</b>
 
-- <b>PowerShell👾</b>
+- <b>Linux & Windows👾</b>
+  -[File Permission](https://github.com/YoriTano/Linux-file-permissions)
 
 
 - <b>Python🐍</b>
@@ -9,10 +10,12 @@
   - [Text-Based Adventure Game](https://github.com/YoriTano/Adventure_game)
   - [Pong(PyGame)](https://github.com/YoriTano/Pong_py_pygame)
   - [Pong(Stddraw)](https://github.com/YoriTano/Pong_py_std)
+  - [Automation(Scripting)](https://github.com/YoriTano/Python-Automation)
  
 
 - <b>Cloud Computing & Networking☁️</b>
-  -
+  - [WireShark(Packet Analysis)](https://github.com/YoriTano/Wireshark-Packet-Analysis)
+  - 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-collins-360108102/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@yori.___) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Yori_tano) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@yori._.) 
